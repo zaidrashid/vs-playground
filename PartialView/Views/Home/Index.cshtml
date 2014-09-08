@@ -1,0 +1,32 @@
+﻿@model PartialView.Models.SelectDDL
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @ViewBag.Message
+    </div>
+
+    <table border="1">
+        <tr>
+            <td>
+                @Html.Partial("~/Views/Home/_Top.cshtml", @Model)
+            </td>
+        </tr>
+        <tr>
+            <td>
+                @Html.Partial("~/Views/Home/_Bottom.cshtml", @Model)
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

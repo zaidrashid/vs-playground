@@ -1,0 +1,34 @@
+﻿@model MVC4Playground.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Site.css" />
+    <title>RvspForm</title>
+</head>
+<body>
+    <div>
+        @Html.ValidationSummary()
+        @using (Html.BeginForm())
+        {
+            <p>Name: @Html.TextBoxFor(x => x.Name)</p>
+            <p>Email: @Html.TextBoxFor(x => x.Email)</p>
+            <p>Phone: @Html.TextBoxFor(x => x.Phone)</p>
+            <p>
+                Will you attend?
+                @Html.DropDownListFor(x => x.WillAttend, new[] {
+           new SelectListItem(){Text = "Yes", Value = bool.TrueString},
+           new SelectListItem(){Text = "No", Value = bool.FalseString}},
+           "Choose an Option")
+            </p>
+            <input type="submit" value="Submit RVSP" />
+        }
+    </div>
+</body>
+</html>

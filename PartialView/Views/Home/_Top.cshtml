@@ -1,0 +1,11 @@
+﻿@model PartialView.Models.SelectDDL
+
+<div>
+
+    @Html.DropDownListFor(x => x.Selected, new[] 
+            {
+                new SelectListItem(){Text = "Volvo", Value = "Volvo"},
+                new SelectListItem(){Text = "Mini", Value = "Mini"}
+            },
+           "Choose an Option")
+</div>

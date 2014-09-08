@@ -1,0 +1,27 @@
+﻿@model IEnumerable<PartialView.Models.PartialModel>
+@using PartialView.Models
+
+@if (Model != null)
+{
+    <div class="grid">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Affress</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td align="left">@item.Name</td>
+                        <td align="left">@item.Age</td>
+                        <td align="left">@item.Address</td>
+                    </tr> 
+                }
+            </tbody>
+        </table>
+    </div> 
+}

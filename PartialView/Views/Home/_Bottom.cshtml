@@ -1,0 +1,12 @@
+﻿@model PartialView.Models.SelectDDL
+@using PartialView.Models
+<script src="~/Scripts/jquery-2.0.3.js"></script>
+<script type="text/javascript">
+    $("#vodAppFilter").change(function (e) {
+        ast.AddFilter("VODApp", $(this).val(), false);
+    });
+</script>
+
+<div> 
+    @Model.Selected
+</div>
