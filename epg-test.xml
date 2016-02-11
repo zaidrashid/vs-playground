@@ -1,0 +1,595 @@
+?<?xml version="1.0" encoding="utf-8"?>
+<Appspacetv xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <channel id="disney-channel.toons">
+    <display-name>Disney</display-name>
+    <icon>http://phazer.info/img/kanali/disney.jpg</icon>
+    <programme channel="disney-channel.toons" start="2016-02-10T05:05:00.0000000+00:00" stop="2016-02-10T05:30:00.0000000+00:00">
+      <title>Shake It Up</title>
+      <desc>CeCe and Rocky take over organising Dina's party when her mother won't let her do what she wants. But Mrs Garcia steps in again at the last minute threatening to spoil it all.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T05:30:00.0000000+00:00" stop="2016-02-10T05:55:00.0000000+00:00">
+      <title>Shake It Up</title>
+      <desc>Rocky is holidaying with CeCe and her parents at a lake house, but the girls are horrified to discover there's no TV, internet or mobile phone reception, and Gunther and Tinker are staying next door!</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T05:55:00.0000000+00:00" stop="2016-02-10T06:20:00.0000000+00:00">
+      <title>That's So Raven</title>
+      <desc>Chelsea's determined to stop the lovely old tree in the school grounds being cut down, and Jake pretends to support her because he likes her. But Raven sees he's a fake.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T06:20:00.0000000+00:00" stop="2016-02-10T06:45:00.0000000+00:00">
+      <title>That's So Raven</title>
+      <desc>Boy band Boyz 'N' Motion has booked dinner at the diner. Raven can't keep quiet, so the place is mobbed, and she ends up taking them home for dinner with her.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T06:45:00.0000000+00:00" stop="2016-02-10T07:10:00.0000000+00:00">
+      <title>Austin &amp; Ally</title>
+      <desc>Austin’s fear of umbrellas is discovered when Dez casts him as a lifeguard, then he abruptly quits. Ally helps Austin overcome his fear and tackle the role.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T07:10:00.0000000+00:00" stop="2016-02-10T07:35:00.0000000+00:00">
+      <title>Austin &amp; Ally</title>
+      <desc>Trish gets a job at a diner. Austin pops in for lunch and falls for one of the waitresses. He ends up getting a job there and enlisting Ally’s help to win her over.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T07:35:00.0000000+00:00" stop="2016-02-10T08:00:00.0000000+00:00">
+      <title>A.N.T. Farm</title>
+      <desc>Chyna is thrilled to meet Madame Goo Goo (who bears a striking resemblance to Lady Ga Ga) and gets her phone number. But she loses it in dough during a fortune cookie factory visit, and the ANTs must help her find it.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T08:00:00.0000000+00:00" stop="2016-02-10T08:25:00.0000000+00:00">
+      <title>A.N.T. Farm</title>
+      <desc>Chyna has been chosen to give a speech at an ANT recruitment event, but Cameron accidentally breaks her ANT Pad where her speech is saved. Has Olive memorised it?</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T08:25:00.0000000+00:00" stop="2016-02-10T08:50:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Jessie is excited when the Ross family is asked to participate in a reality show about non-traditional families. The producer says there isn’t enough drama, so she creates some!</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T08:50:00.0000000+00:00" stop="2016-02-10T09:15:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Country girl Maybelle moves into the building. Jessie asks Emma to invite her to her party. Despite being embarrassed by Maybelle, Emma gives her a makeover to help her fit in.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T09:15:00.0000000+00:00" stop="2016-02-10T09:20:00.0000000+00:00">
+      <title>Disney Mickey Mouse</title>
+      <desc>Mickey is caught up in a throng of people during the Tokyo morning rush hour, and is swept onto the wrong bullet train. Can he get back on the right route and get to work on time?</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T09:20:00.0000000+00:00" stop="2016-02-10T09:45:00.0000000+00:00">
+      <title>Miraculous Tales of Ladybug &amp;...</title>
+      <desc>When a disgruntled sculptor who is in love with Ladybug is targeted by Hawk Moth, he is transformed into Copycat, a perfect double of Cat Noir.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T09:45:00.0000000+00:00" stop="2016-02-10T09:55:00.0000000+00:00">
+      <title>Fish Hooks</title>
+      <desc>Send Me an Angel Fish: Oscar falls in love with Angela, head of the rival debating team, but he's not sure if she really likes him or is just spying on him to win the forthcoming debate.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T09:55:00.0000000+00:00" stop="2016-02-10T10:10:00.0000000+00:00">
+      <title>Fish Hooks</title>
+      <desc>Little Fish Sunshine: Bea ignores her principles to enter the Little Fish sunshine pageant, because she wants the prize, to meet pop star Randy Bubbler.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T10:10:00.0000000+00:00" stop="2016-02-10T10:35:00.0000000+00:00">
+      <title>Good Luck Charlie</title>
+      <desc>While Amy and Bob try to find out how Charlie learned a bad word, Teddy goes to Ivy's family's cabin by the lake. She soon learns it's an ice fishing hut where they spend a cramped weekend.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T10:35:00.0000000+00:00" stop="2016-02-10T11:00:00.0000000+00:00">
+      <title>I Didn't Do It</title>
+      <desc>Lindy and friends become outcasts when fellow Muskrats learn Lindy went on a date with a student from their arch rival Mikita Mosquitoes.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T11:00:00.0000000+00:00" stop="2016-02-10T11:25:00.0000000+00:00">
+      <title>Dog With A Blog</title>
+      <desc>Ellen decides to get her own pet as everyone has bonded with Stan except her. She brings an annoying parrot home. Eventually Stan leaves the back door open so the bird can escape.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T11:25:00.0000000+00:00" stop="2016-02-10T11:30:00.0000000+00:00">
+      <title>Disney Mickey Mouse</title>
+      <desc>Mickey, Donald and Goofy struggle to stay cool on the hottest day of the year.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T11:30:00.0000000+00:00" stop="2016-02-10T11:55:00.0000000+00:00">
+      <title>H2O</title>
+      <desc>The girls run into Charlotte as mermaids. Lewis wants Charlotte accepted in the group - Emma &amp; Cleo agree. Charlotte feels superior as her powers develop - especially over Cleo - and begins a plan to undermine Cleo</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T11:55:00.0000000+00:00" stop="2016-02-10T12:20:00.0000000+00:00">
+      <title>Girl Meets World</title>
+      <desc>Cory gives the class a living history assignment. Through investigating their ancestors, the kids are given the chance to learn from history and not repeat the mistakes of the past.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T12:20:00.0000000+00:00" stop="2016-02-10T12:45:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>A famous designer sends a dress to be reviewed on the Kitty Couture blog. The zip breaks while Jessie is wearing it, and the dress is wrecked. Can it be fixed?</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T12:45:00.0000000+00:00" stop="2016-02-10T13:10:00.0000000+00:00">
+      <title>Miraculous Tales of Ladybug &amp;...</title>
+      <desc>Marinette is looking after Alex’s watch when it gets broken. Akuma evilises Alex so she becomes Timebreaker, and can freeze everyone in time so she can get the watch back.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T13:10:00.0000000+00:00" stop="2016-02-10T14:00:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Violetta is a very talented teenager who returns to her hometown where she finds love, and discovers her vocation for music.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T14:00:00.0000000+00:00" stop="2016-02-10T14:25:00.0000000+00:00">
+      <title>Plesni izazov</title>
+      <desc>The Next Step follows the lives of a group of elite dancers at The Next Step Dance Studio as they work to win the regional competition.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T14:25:00.0000000+00:00" stop="2016-02-10T14:50:00.0000000+00:00">
+      <title>Liv and Maddie</title>
+      <desc>Liv and Holden share a special moment as they rehearse for an upcoming performance. Meanwhile, Reggie ditches Parker for a chance to play basketball with Maddie.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T14:50:00.0000000+00:00" stop="2016-02-10T15:15:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Jessie tries to help Ravi make friends by taking him to a MENSA meeting in the park. They meet Madeline and Scott. Things look promising, but the couple aren’t what they seem.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T15:15:00.0000000+00:00" stop="2016-02-10T15:40:00.0000000+00:00">
+      <title>Austin &amp; Ally</title>
+      <desc>Suspicious of a cheesy singing duo, Trish is proved right when it emerges they want to sabotage the Music Factory and start their own music school. Dove Cameron guest stars.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T15:40:00.0000000+00:00" stop="2016-02-10T16:05:00.0000000+00:00">
+      <title>I Didn't Do It</title>
+      <desc>Obnoxious rich kid Stevie Moops falls for Lindy and tries to win her with outrageous, expensive gifts. Delia learns Garrett is hiding the fact he got his driver’s licence.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T16:05:00.0000000+00:00" stop="2016-02-10T16:30:00.0000000+00:00">
+      <title>Miraculous Tales of Ladybug &amp;...</title>
+      <desc>Marinette is looking after Alex’s watch when it gets broken. Akuma evilises Alex so she becomes Timebreaker, and can freeze everyone in time so she can get the watch back.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T16:30:00.0000000+00:00" stop="2016-02-10T17:20:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Violetta is a very talented teenager who returns to her hometown where she finds love, and discovers her vocation for music.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T17:20:00.0000000+00:00" stop="2016-02-10T17:45:00.0000000+00:00">
+      <title>Plesni izazov</title>
+      <desc>The Next Step follows the lives of a group of elite dancers at The Next Step Dance Studio as they work to win the regional competition.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T17:45:00.0000000+00:00" stop="2016-02-10T18:10:00.0000000+00:00">
+      <title>Good Luck Charlie</title>
+      <desc>Teddy meets Amy’s estranged sister Jamie, and learns they drifted apart after Amy stole her high school boyfriend. Teddy and Charlie come up with a plan to re-unite the sisters.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T18:10:00.0000000+00:00" stop="2016-02-10T18:35:00.0000000+00:00">
+      <title>Good Luck Charlie</title>
+      <desc>It’s Charlie’s birthday and she’s looking forward to her party at pre-school. But Amy hears it’s Deedee’s birthday too, and is determined to outdo Deedee’s competitive mother.(</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T18:35:00.0000000+00:00" stop="2016-02-10T19:00:00.0000000+00:00">
+      <title>H2O: Just Add Water</title>
+      <desc>Rikki uses her abilities as a mermaid to earn some quick cash but when she accidentally becomes involved in a fish smuggling operation she sets out to get her revenge.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T19:00:00.0000000+00:00" stop="2016-02-10T19:25:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Binny and Melchior discover in a ditch old barrels of industrial waste. It is an environmental scandal. They decide to take the case.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T19:25:00.0000000+00:00" stop="2016-02-10T19:50:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>Enchantra sends Sabrina and Shinji on The Journey of Ten-Thousand Steps, a trek through Witch World that Enchantra hopes will force the teens to work together (and, ideally, fall in love). Shinji and Sabrina traverse through the forest (where they battle Lasgard) and fall into a canyon (where they battle a huge rock monster) before making it back to Witch School.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T19:50:00.0000000+00:00" stop="2016-02-10T20:10:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>While learning transformation spells at witch school, Sabrina turns Professor Geist into a chicken - and Shinji and Ambrose have to watch over (and chase after) Chicken Geist while Sabrina seeks out her aunts to figure out how to change him back. But at Spellman’s Brew, Sabrina accidentally turns her aunts into mice. Returning to Witch World, Sabrina sneaks a look at Enchantra’s spell book to learn how to undo the spell, but when she returns to Spellmans, she discovers that it might be too late ... (more at http://tvprofil.net)</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T20:10:00.0000000+00:00" stop="2016-02-10T20:35:00.0000000+00:00">
+      <title>Hank Zipzer</title>
+      <desc>Meet The World’s Greatest Underachiever in this funny and fast-moving series that follows the life of 12-year-old Henry ‘Hank’ Zipzer, whose glass is half full - he just spills it everywhere…</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T20:35:00.0000000+00:00" stop="2016-02-10T21:00:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Binny and Melchior discover in a ditch old barrels of industrial waste. It is an environmental scandal. They decide to take the case.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T21:00:00.0000000+00:00" stop="2016-02-10T21:45:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Beautiful talented teenager Violetta returns home to Buenos Aires with her father having lived in Europe for years. It's time to develop her musical talent while coping with life and love. Dubbed in English.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T21:45:00.0000000+00:00" stop="2016-02-10T21:50:00.0000000+00:00">
+      <title>The Hive</title>
+      <desc>Buzzbee learns to use Dad'svideo camera. He wants to film an ordinary day on Honey Farm, but falls asleep and unwittingly films a very special event: Baybee flying for the first time.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T21:50:00.0000000+00:00" stop="2016-02-10T22:15:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>Harvey enlists Sabrina, Jim and Amy to join him in a fantasy role-playing game, Creatures and Caves. The gang dresses in fantasy garb (Harvey as a werewolf; Sabrina as a witch) and heads into the forest - where real troll Lasgard awaits them. The troll cat-naps Salem (cats are a troll delicacy), then leaps through a hidden troll portal that leads to Witch World. Harvey follows and (as a result of the ever-present full moon in Witch World) turns into a werewolf.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T22:15:00.0000000+00:00" stop="2016-02-10T22:40:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>In order to break up Sabrina and Jessie’s friendship, Enchantra magicks two fighting sprites into a pair of friendship bracelets, and when Jessie and Sabrina wear them (and are near one another) they argue and fight. Sabrina, being half-witch, is able to resist her own sprite’s power, but Jessie’s sprite causes her to get angrier and angrier (and more powerful, giving Jessie magic, and the power of flight). Eventually, Sabrina takes Jessie into Witch World, where Sabrina is able to use all of he... (more at http://tvprofil.net)</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T22:40:00.0000000+00:00" stop="2016-02-10T23:05:00.0000000+00:00">
+      <title>Hank Zipzer</title>
+      <desc>Meet The World’s Greatest Underachiever in this funny and fast-moving series that follows the life of 12-year-old Henry ‘Hank’ Zipzer, whose glass is half full - he just spills it everywhere…</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T23:05:00.0000000+00:00" stop="2016-02-10T23:30:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Binny and Melchior discover in a ditch old barrels of industrial waste. It is an environmental scandal. They decide to take the case.</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-10T23:30:00.0000000+00:00" stop="2016-02-11T00:15:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Violetta speaks frankly to the U-Mix people and they reach an agreement..</desc>
+      <date>20160210</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T00:15:00.0000000+00:00" stop="2016-02-11T00:20:00.0000000+00:00">
+      <title>The Hive</title>
+      <desc>Buzzbee learns to use Dad'svideo camera. He wants to film an ordinary day on Honey Farm, but falls asleep and unwittingly films a very special event: Baybee flying for the first time.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T00:20:00.0000000+00:00" stop="2016-02-11T00:45:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>After her memory is erased by a mind-wipe raven, Sabrina is captured by the trolls, who convince her that she is actually a troll princess - Princess Witch-Basher. They train Sabrina in the ways of troll-life while plotting an attack on witch school. But when Veralupa and Ambrose find Sabrina and send her off to</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T00:45:00.0000000+00:00" stop="2016-02-11T01:10:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>There’s a full moon in Greendale, which means that Sabrina has to take care of Harvey while he’s a werewolf. But Harvey-as-the-werewolf escapes from his cage and chases Salem to a movie theatre were Jim, Amy, and Tiffany Titan are all watching a mid-night werewolf movie. After the theatre is torn up in front of the stunned crowd, Sabrina (with Veralupa’s help) does a reverse spell, causing everything to play backwards, and causing everybody to not remember a thing</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T01:10:00.0000000+00:00" stop="2016-02-11T01:35:00.0000000+00:00">
+      <title>Hank Zipzer</title>
+      <desc>Meet The World’s Greatest Underachiever in this funny and fast-moving series that follows the life of 12-year-old Henry ‘Hank’ Zipzer, whose glass is half full - he just spills it everywhere…</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T01:35:00.0000000+00:00" stop="2016-02-11T02:00:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Binny and Melchior discover in a ditch old barrels of industrial waste. It is an environmental scandal. They decide to take the case.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T02:00:00.0000000+00:00" stop="2016-02-11T02:45:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Marotti is excited by Angie's song when he hears the friends sing it and asks her to give it to U-Mix. She can't turn him down..</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T02:45:00.0000000+00:00" stop="2016-02-11T02:50:00.0000000+00:00">
+      <title>The Hive</title>
+      <desc>Buzzbee learns to use Dad'svideo camera. He wants to film an ordinary day on Honey Farm, but falls asleep and unwittingly films a very special event: Baybee flying for the first time.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T02:50:00.0000000+00:00" stop="2016-02-11T03:00:00.0000000+00:00">
+      <title>Mouk</title>
+      <desc>Mouk and Chavapa are in Canada. Abey shows them how to harvest maple syrup in order to bake a maple syrup tart for them.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T03:00:00.0000000+00:00" stop="2016-02-11T03:25:00.0000000+00:00">
+      <title>Lolirock</title>
+      <desc>The adventures of Iris, a teenage girl who must divide her time between gigs with her rock band and life as a princess from a faraway kingdom</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T03:25:00.0000000+00:00" stop="2016-02-11T03:50:00.0000000+00:00">
+      <title>Sofia the First</title>
+      <desc>Sofia and Amber visit Prince Zandar, in the desert kingdom of Tangu, and get lost on a flying carpet. They meet Princess Jasmine and learn it’s important to try new things.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T03:50:00.0000000+00:00" stop="2016-02-11T04:15:00.0000000+00:00">
+      <title>That's So Raven</title>
+      <desc>Raven dreams that Alana has a Halloween party to which everyone is invited except her and Chelsea. They try to concoct a spell to wangle an invitation, but it all goes horribly wrong. Raven's determined to make sure this doesn't happen in real life.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T04:15:00.0000000+00:00" stop="2016-02-11T04:40:00.0000000+00:00">
+      <title>Gravity Falls</title>
+      <desc>Mabel realises she’s a bit taller than Dipper, and boasts to him. Jealous, Dipper treks into the forest to find height altering crystals so that people will stop teasing him.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T04:40:00.0000000+00:00" stop="2016-02-11T05:05:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Jessie finally gets an agent, then discovers he’s so spectacularly unsuccessful he is thrilled to have her as a client. What’s more he only wants her as a hand model!</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T05:05:00.0000000+00:00" stop="2016-02-11T05:30:00.0000000+00:00">
+      <title>Shake It Up</title>
+      <desc>Gary Wilde gives Rocky and CeCe the responsibility for running the show, which leads to arguments and disasters. Rocky eventually brings in some neighbourhood dancers to perform.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T05:30:00.0000000+00:00" stop="2016-02-11T05:55:00.0000000+00:00">
+      <title>Shake It Up</title>
+      <desc>When Rocky and CeCe start to argue, Gary recommends they visit his therapist. But after they've seen the shrink they argue more than ever, and it starts to affect their dancing.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T05:55:00.0000000+00:00" stop="2016-02-11T06:20:00.0000000+00:00">
+      <title>That's So Raven</title>
+      <desc>Raven, Ed and Chelsea are tricked into working for Ed in the school shop, but he doesn't pull his weight. They are worried he might steal to buy things for his girlfriend, and decide to help him.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T06:20:00.0000000+00:00" stop="2016-02-11T06:45:00.0000000+00:00">
+      <title>That's So Raven</title>
+      <desc>Raven's horrified when she sees a sculpture of herself that Chelsea has entered in an exhibition. It breaks and she's worried Chelsea will blame her.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T06:45:00.0000000+00:00" stop="2016-02-11T07:10:00.0000000+00:00">
+      <title>Austin &amp; Ally</title>
+      <desc>The gang heads to Shiny Money's houseboat. Chaos ensues when, while Austin and Ally are working on a song, Trish and Dez accidentally lure in a legendary alligator.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T07:10:00.0000000+00:00" stop="2016-02-11T07:35:00.0000000+00:00">
+      <title>Austin &amp; Ally</title>
+      <desc>The gang stays up rehearsing for Austin’s demo record with Jimmy Starr. Austin works too hard, strains his vocal chords and faces a choice that could affect his career.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T07:35:00.0000000+00:00" stop="2016-02-11T08:00:00.0000000+00:00">
+      <title>A.N.T. Farm</title>
+      <desc>When Chyna and Olive aren't invited to Lexi's slumber party they decide to hold their own. Meanwhile Fletcher agrees to help Cameron create a new comic book character.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T08:00:00.0000000+00:00" stop="2016-02-11T08:25:00.0000000+00:00">
+      <title>A.N.T. Farm</title>
+      <desc>Grease is the school play. Lexi and Fletcher campaign against it as Lexi is jealous Chyna has been chosen as Sandy, and Fletcher is envious of the boy playing Danny.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T08:25:00.0000000+00:00" stop="2016-02-11T08:50:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Jessie must make sure Luke prioritises schoolwork over his hobby after she enrols him for a dance class and he becomes obsessed.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T08:50:00.0000000+00:00" stop="2016-02-11T09:15:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Jessie tries to get to know a famous casting director by persuading Zuri to be friends with his daughter Wendy, but the girls don’t get on. Emma must get a job to pay her phone bill.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T09:15:00.0000000+00:00" stop="2016-02-11T09:20:00.0000000+00:00">
+      <title>Disney Mickey Mouse</title>
+      <desc>After his car breaks down, Mickey is pursued by a hideous ghoul.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T09:20:00.0000000+00:00" stop="2016-02-11T09:45:00.0000000+00:00">
+      <title>Miraculous Tales of Ladybug &amp;...</title>
+      <desc>Marinette is looking after Alex’s watch when it gets broken. Akuma evilises Alex so she becomes Timebreaker, and can freeze everyone in time so she can get the watch back.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T09:45:00.0000000+00:00" stop="2016-02-11T09:55:00.0000000+00:00">
+      <title>Fish Hooks</title>
+      <desc>Bea Sneaks Out: Bea’s parents won’t let her go to a ferret party with her friends, so she lies to them and sneaks out to go. But the party gets out of control and Bea’s in trouble.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T09:55:00.0000000+00:00" stop="2016-02-11T10:10:00.0000000+00:00">
+      <title>Fish Hooks</title>
+      <desc>Unfinished Doll Business: Bea's mum finds her old doll in the attic and gives it to her, not realising Bea is terrified of it, and it has a scary habit of reappearing after being destroyed.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T10:10:00.0000000+00:00" stop="2016-02-11T10:35:00.0000000+00:00">
+      <title>Good Luck Charlie</title>
+      <desc>PJ needs his birth certificate for a school trip, which means Amy and Bob have to own up to him about an embarrassing mistake when they registered his name.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T10:35:00.0000000+00:00" stop="2016-02-11T11:00:00.0000000+00:00">
+      <title>I Didn't Do It</title>
+      <desc>Lindy falls in love with a puppy she’s fostering and finds it hard to let him go to his new family. Jasmine and Delia compete over their home economics design projects.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T11:00:00.0000000+00:00" stop="2016-02-11T11:25:00.0000000+00:00">
+      <title>Dog With A Blog</title>
+      <desc>When Ellen hears a voice downstairs late at night, not knowing Stan’s secret, she suggests training him as a guard dog. The kids stage a fake break-in to make Stan look a hero.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T11:25:00.0000000+00:00" stop="2016-02-11T11:30:00.0000000+00:00">
+      <title>Disney Mickey Mouse</title>
+      <desc>Mickey's having a bad day. He's lost his trademark ears, and has to hunt them down.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T11:30:00.0000000+00:00" stop="2016-02-11T11:55:00.0000000+00:00">
+      <title>H2O</title>
+      <desc>Charlotte makes underwater mermaid mischief for the girls. Lewis and the girls have to cover for her to avoid detection. Charlotte continues to pick on Cleo.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T11:55:00.0000000+00:00" stop="2016-02-11T12:20:00.0000000+00:00">
+      <title>Girl Meets World</title>
+      <desc>Cory divides his class into two fake companies, one driven by profits and the other by making people happy. Riley and Maya learn first impressions aren’t always accurate.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T12:20:00.0000000+00:00" stop="2016-02-11T12:45:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>Zuri is having trouble with a teacher, so Jessie volunteers to help at school to see what's happening. Unfortunately the lonely teacher ends up wanting to be Jessie's best friend!</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T12:45:00.0000000+00:00" stop="2016-02-11T13:10:00.0000000+00:00">
+      <title>Miraculous Tales of Ladybug &amp;...</title>
+      <desc>Jalil, a young Egyptologist, is akumatized by Hawk Moth. He becomes Pharaoh and wants to sacrifice Alya in a ritual. Can Ladybug and Cat Noir stop him?</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T13:10:00.0000000+00:00" stop="2016-02-11T14:00:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Violetta is a very talented teenager who returns to her hometown where she finds love, and discovers her vocation for music.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T14:00:00.0000000+00:00" stop="2016-02-11T14:25:00.0000000+00:00">
+      <title>Plesni izazov</title>
+      <desc>The Next Step follows the lives of a group of elite dancers at The Next Step Dance Studio as they work to win the regional competition.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T14:25:00.0000000+00:00" stop="2016-02-11T14:48:00.0000000+00:00">
+      <title>Liv and Maddie</title>
+      <desc>Maddie and Diggie try to out-fun each other at a local music festival as Liv tries to help Andie get over her breakup.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T14:48:00.0000000+00:00" stop="2016-02-11T14:50:00.0000000+00:00">
+      <title>Descendants Wicked World</title>
+      <desc>These animated shorts, containing four great new songs, pick up from the final scene of film Disney’s Descendants, in which the offspring of Disney heroes and villains meet up at prep school.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T14:50:00.0000000+00:00" stop="2016-02-11T15:15:00.0000000+00:00">
+      <title>Jessie</title>
+      <desc>The family takes a vacation on the Ross's yacht. Luke goes fishing and catches what they believe is a mermaid called Delphina.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T15:15:00.0000000+00:00" stop="2016-02-11T15:40:00.0000000+00:00">
+      <title>Austin &amp; Ally</title>
+      <desc>A mystery unfurls when Ally's songbook is stolen from her school's '70s-themed party and the gang sets out in search of the culprit.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T15:40:00.0000000+00:00" stop="2016-02-11T16:05:00.0000000+00:00">
+      <title>I Didn't Do It</title>
+      <desc>Lindy is excited about her new job as the school's food critic until she dines at a family restaurant and the food is terrible.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T16:05:00.0000000+00:00" stop="2016-02-11T16:30:00.0000000+00:00">
+      <title>Miraculous Tales of Ladybug &amp;...</title>
+      <desc>Jalil, a young Egyptologist, is akumatized by Hawk Moth. He becomes Pharaoh and wants to sacrifice Alya in a ritual. Can Ladybug and Cat Noir stop him?</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T16:30:00.0000000+00:00" stop="2016-02-11T17:20:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Violetta is a very talented teenager who returns to her hometown where she finds love, and discovers her vocation for music.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T17:20:00.0000000+00:00" stop="2016-02-11T17:45:00.0000000+00:00">
+      <title>Plesni izazov</title>
+      <desc>The Next Step follows the lives of a group of elite dancers at The Next Step Dance Studio as they work to win the regional competition.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T17:45:00.0000000+00:00" stop="2016-02-11T18:10:00.0000000+00:00">
+      <title>Good Luck Charlie</title>
+      <desc>Beau persuades Teddy to join him at a country and western hang-out, as friends. But when they sing karaoke together, they realise there may be deeper feelings between them.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T18:10:00.0000000+00:00" stop="2016-02-11T18:35:00.0000000+00:00">
+      <title>Good Luck Charlie</title>
+      <desc>It’s Teddy’s 18th birthday, and she has invited her new boyfriend, Beau, to the family party. But the celebrations are thrown into disarray when there’s a surprise visitor.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T18:35:00.0000000+00:00" stop="2016-02-11T19:00:00.0000000+00:00">
+      <title>H2O: Just Add Water</title>
+      <desc>Zane tries to impress his dad by entering in the local film competition, filming his attempt to break his Dad’s windsurfing record around Mako Island. He gets into trouble with sharks and unbeknownst to him, is saved by mermaid Rikki.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T19:00:00.0000000+00:00" stop="2016-02-11T19:25:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Luca is busy preparing the annual prom. Then the sprinkler goes off in the gym, submerging the place. Binny and Melchior decide to find the culprit.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T19:25:00.0000000+00:00" stop="2016-02-11T19:50:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>Harvey enlists Sabrina, Jim and Amy to join him in a fantasy role-playing game, Creatures and Caves. The gang dresses in fantasy garb (Harvey as a werewolf; Sabrina as a witch) and heads into the forest - where real troll Lasgard awaits them. The troll cat-naps Salem (cats are a troll delicacy), then leaps through a hidden troll portal that leads to Witch World. Harvey follows and (as a result of the ever-present full moon in Witch World) turns into a werewolf.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T19:50:00.0000000+00:00" stop="2016-02-11T20:10:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>During a recharging ceremony for magic wands in Witch World, Enchantra notices that they aren’t getting enough power, so she instructs Sabrina to get her N’itch friends to be more superstitious</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T20:10:00.0000000+00:00" stop="2016-02-11T20:35:00.0000000+00:00">
+      <title>Hank Zipzer</title>
+      <desc>Meet The World’s Greatest Underachiever in this funny and fast-moving series that follows the life of 12-year-old Henry ‘Hank’ Zipzer, whose glass is half full - he just spills it everywhere…</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T20:35:00.0000000+00:00" stop="2016-02-11T21:00:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Luca is busy preparing the annual prom. Then the sprinkler goes off in the gym, submerging the place. Binny and Melchior decide to find the culprit.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T21:00:00.0000000+00:00" stop="2016-02-11T21:45:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>León and Lara make up, while Violetta and Diego confirm what they feel for each other.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T21:45:00.0000000+00:00" stop="2016-02-11T21:50:00.0000000+00:00">
+      <title>The Hive</title>
+      <desc>Buzzbee discovers that being tidy is much less trouble than being messy!</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T21:50:00.0000000+00:00" stop="2016-02-11T22:15:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>Sabrina and her Witch World classmates are sent by Professor Geist to find a dragon’s tooth for a potion. But when Shinji kidnaps a baby dragon from its lair - and then the baby dragon gets loose, and escapes into Human World - Sabrina has to track it down and bring it back before the baby dragon’s angry mother destroys Witch School.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T22:15:00.0000000+00:00" stop="2016-02-11T22:40:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>Salem (jealous of all the attention Sabrina is giving Jim) casts a spell to turn Jim invisible - but hits Sabrina, instead. Sabrina ends up at Greendale High not yet realizing she’s invisible, and Tiffany and Harvey think that there is a ghost loose in the school. They become full-on Ghostbusters, and trap the invisible Sabrina before she escapes and makes it to Witch World.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T22:40:00.0000000+00:00" stop="2016-02-11T23:05:00.0000000+00:00">
+      <title>Hank Zipzer</title>
+      <desc>Meet The World’s Greatest Underachiever in this funny and fast-moving series that follows the life of 12-year-old Henry ‘Hank’ Zipzer, whose glass is half full - he just spills it everywhere…</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T23:05:00.0000000+00:00" stop="2016-02-11T23:30:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Luca is busy preparing the annual prom. Then the sprinkler goes off in the gym, submerging the place. Binny and Melchior decide to find the culprit.</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-11T23:30:00.0000000+00:00" stop="2016-02-12T00:15:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Francesca's father doesn't react as the friends expected him to, and persists in his idea that the family should move to Italy..</desc>
+      <date>20160211</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T00:15:00.0000000+00:00" stop="2016-02-12T00:20:00.0000000+00:00">
+      <title>The Hive</title>
+      <desc>Buzzbee discovers that being tidy is much less trouble than being messy!</desc>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T00:20:00.0000000+00:00" stop="2016-02-12T00:45:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>Enchantra sends Sabrina and Shinji on The Journey of Ten-Thousand Steps, a trek through Witch World that Enchantra hopes will force the teens to work together (and, ideally, fall in love). Shinji and Sabrina traverse through the forest (where they battle Lasgard) and fall into a canyon (where they battle a huge rock monster) before making it back to Witch School.</desc>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T00:45:00.0000000+00:00" stop="2016-02-12T01:10:00.0000000+00:00">
+      <title>Sabrina Secrets of a teenage witch</title>
+      <desc>While learning transformation spells at witch school, Sabrina turns Professor Geist into a chicken - and Shinji and Ambrose have to watch over (and chase after) Chicken Geist while Sabrina seeks out her aunts to figure out how to change him back. But at Spellman’s Brew, Sabrina accidentally turns her aunts into mice. Returning to Witch World, Sabrina sneaks a look at Enchantra’s spell book to learn how to undo the spell, but when she returns to Spellmans, she discovers that it might be too late ... (more at http://tvprofil.net)</desc>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T01:10:00.0000000+00:00" stop="2016-02-12T01:35:00.0000000+00:00">
+      <title>Hank Zipzer</title>
+      <desc>Meet The World’s Greatest Underachiever in this funny and fast-moving series that follows the life of 12-year-old Henry ‘Hank’ Zipzer, whose glass is half full - he just spills it everywhere…</desc>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T01:35:00.0000000+00:00" stop="2016-02-12T02:00:00.0000000+00:00">
+      <title>Binny and the ghost</title>
+      <desc>Luca is busy preparing the annual prom. Then the sprinkler goes off in the gym, submerging the place. Binny and Melchior decide to find the culprit.</desc>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T02:00:00.0000000+00:00" stop="2016-02-12T02:45:00.0000000+00:00">
+      <title>Violetta</title>
+      <desc>Francesca's father finally agrees that she should stay in Argentina. Lena returns to care for her sister Nati, and also for Ludmila..</desc>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T02:45:00.0000000+00:00" stop="2016-02-12T02:50:00.0000000+00:00">
+      <title>The Hive</title>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T02:50:00.0000000+00:00" stop="2016-02-12T03:00:00.0000000+00:00">
+      <title>Mouk</title>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T03:00:00.0000000+00:00" stop="2016-02-12T03:25:00.0000000+00:00">
+      <title>Lolirock</title>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T03:25:00.0000000+00:00" stop="2016-02-12T03:50:00.0000000+00:00">
+      <title>Sofia the First</title>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T03:50:00.0000000+00:00" stop="2016-02-12T04:15:00.0000000+00:00">
+      <title>That's So Raven</title>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T04:15:00.0000000+00:00" stop="2016-02-12T04:40:00.0000000+00:00">
+      <title>Gravity Falls</title>
+      <date>20160212</date>
+    </programme>
+    <programme channel="disney-channel.toons" start="2016-02-12T04:40:00.0000000+00:00" stop="2016-02-12T05:05:00.0000000+00:00">
+      <title>Jessie</title>
+      <date>20160212</date>
+    </programme>
+  </channel>
+</Appspacetv>
